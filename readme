@@ -4,8 +4,8 @@ manage all your vps inside 1 portainer
 
 to do that you should install the script inside all vps as a docker so you can add them from add environment from main portainer to add them together 
 
-نصب داکر ، داکر کومپوز و انجین ایکس پراکسی در سه سوت
-Docker, Docker Compose, Nginx Proxy
+نصب داکر ، داکر کومپوز و انجین ایکس پراکسی 
+Docker, Docker Compose, Nginx Proxy, portainer
 
 
 for install
