@@ -1,7 +1,27 @@
-نصب داکر ، داکر کومپوز و انجین ایکس پراکسی در سه سوت Docker, Docker Compose, Nginx Proxy
+portainer
+
+manage all your vps inside 1 portainer 
+
+to do that you should install the script inside all vps as a docker so you can add them from add environment from main portainer to add them together 
+
+نصب داکر ، داکر کومپوز و انجین ایکس پراکسی در سه سوت
+Docker, Docker Compose, Nginx Proxy
+
 
 for install
 
 mkdir docker && cd docker
 wget https://github.com/OpiranClub/install_docker/blob/main/install_docker.sh && chmod +x install_docker.sh
 ./install_docker.sh
+
+portainer address:
+
+http://IPADDRESS:9000
+or
+https://DOMAIN:9000
+
+also from nginx proxy manager you can add location to use it as :
+
+https://DOMAIN
+
+
